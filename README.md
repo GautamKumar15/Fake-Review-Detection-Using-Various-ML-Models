@@ -62,12 +62,15 @@ Fake-Reviews-Detection-main/
 
 ## 🧪 Sample Evaluation Metrics
 
-| Model               | Accuracy | Precision | Recall | F1 Score |
-|--------------------|----------|-----------|--------|----------|
-| Logistic Regression| ~88%     | High      | High   | Good     |
-| Naive Bayes        | ~85%     | Medium    | High   | Fair     |
-| SVM                | ~89%     | High      | High   | Good     |
-| Random Forest      | ~91%     | High      | High   | Best     |
+Performance of various ML models:
+
+
+Logistic Regression Prediction Accuracy: 86.23%
+K Nearest Neighbors Prediction Accuracy: 57.54%
+Decision Tree Classifier Prediction Accuracy: 74.33%
+Random Forests Classifier Prediction Accuracy: 84.16%
+Support Vector Machines Prediction Accuracy: 88.01%
+Multinomial Naive Bayes Prediction Accuracy: 84.64%
 
 > *Actual results may vary based on preprocessing and data split.*
 
